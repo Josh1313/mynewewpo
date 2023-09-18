@@ -1,0 +1,4 @@
+commercial_activity_df.csv filter=lfs diff=lfs merge=lfs -text
+products_df.csv filter=lfs diff=lfs merge=lfs -text
+sociodemographic_df.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
